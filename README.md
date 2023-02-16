@@ -5,6 +5,7 @@
 ___________________________________________________________________________________
 
 # Goal of this project
+This project helped get a glimpse of what it is like being a Information Security Risk officer, therefore it was a great window into a certain career path that hopefully one day I get to take!
 The first thing to add when looking at this project was to try to envision how to create a defensible
 program, in this project I am aiming to draw out a mind map which would act as a representation of the
 current and future state of any choosen company, I tired to understand all the different aspects and concepts related to
@@ -25,3 +26,14 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________
 
+# Understanding our target company:
+In this project we were assigned to create a risk management plan for a courier company, for which this companany would entrust us to deliver their goods including Banks to deliver Credit cards, Ecommerce business to deliver goods of all types including high value electronics and governmental agencies like hospitals and embassies to deliver medication and documents respectively.
+The database centres and braches, as well as the warehouses for this company would be spread accross the world, for which this connection between them had to be manifested in an organized and safe way.
+
+___________________________________________________________________________________
+
+# Final Result
+In this project I was able to:
+- Evaluate a minimum of three of physical and virtual security measures that can be employed to ensure the integrity of organisational IT security
+- Consider how IT security can be aligned with organizational policy, detailing the security impact of any misalignment.
+- Evaluate the suitability of the tools used in an organizational policy.
