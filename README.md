@@ -23,7 +23,6 @@ ________________________________________________________________________________
 2- Describe IT security solutions.
 3- Review mechanisms to control organisational IT security.
 4- Manage organisational security
-
 ___________________________________________________________________________________
 
 # Understanding our target company:
